@@ -1,0 +1,36 @@
+title: "Shri Hari Priya K"
+description: "Final Year B.Com., LL.B (Hons) | Legal Researcher | Law Intern"
+author: "Shri Hari Priya K"
+
+# Site Settings
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Theme (Choose ONE)
+theme: minima
+
+# Markdown Engine
+markdown: kramdown
+highlighter: rouge
+
+# SEO Settings
+lang: en
+timezone: Asia/Kolkata
+
+# Social Links (Optional)
+email: "haripriyakannan20@gmail.com"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation (Optional if using theme navigation)
+header_pages:
+  - index.md
+
+# Exclude Files
+exclude:
+  - README.md
+  - node_modules
+  - vendor
